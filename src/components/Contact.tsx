@@ -49,8 +49,8 @@ const Contact: React.FC = () => {
     {
       icon: FaEnvelope,
       label: 'Email',
-      value: 'aman.mishra@example.com',
-      href: 'mailto:aman.mishra@example.com',
+      value: 'aman2005mishra@gmail.com',
+      href: 'mailto:aman2005mishra@gmail.com',
       color: 'text-pink-400',
     },
     {
@@ -65,19 +65,19 @@ const Contact: React.FC = () => {
     {
       icon: FaGithub,
       label: 'GitHub',
-      href: 'https://github.com/amanmishra',
+      href: 'https://github.com/Laphz',
       color: 'hover:text-gray-300',
     },
     {
       icon: FaLinkedin,
       label: 'LinkedIn',
-      href: 'https://linkedin.com/in/amanmishra',
+      href: 'http://linkedin.com/in/aman-mishra-116b63280/',
       color: 'hover:text-blue-400',
     },
     {
       icon: FaEnvelope,
       label: 'Email',
-      href: 'mailto:aman.mishra@example.com',
+      href: 'mailto:aman2005mishra@gmail.com',
       color: 'hover:text-pink-400',
     },
   ];
